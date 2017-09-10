@@ -403,3 +403,6 @@ span:hover:after {
   transition: 0s;
 }
 
+#strike {
+	text-decoration:line-through;
+}
