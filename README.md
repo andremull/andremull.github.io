@@ -44,16 +44,19 @@ I then made two more, one mainly tech orintated and a minimal one.
 
 
 
-# Challenges
- * The importance of a focused development phase became clear in this project. My initial wireframing led me to settle upon a simple layout that would translate across a wide range of viewport sizes. This was an important consideration. I made significant changes to the project at a late stage as I became aware of several readability issues caused by my initial choices.
- 
-  Two quotes I found the pretty much summed up what I was experiencing.
+# Challenges and Changes
 
+So I started off with a very dark color scheme for everything except for the landing page which proved very difficult as it looked horrible, I tried for about three days trying to make it a little more user friendly, in the end I decided to scrap that idea and start with a cleaner, brighter and more minimalistic approach.
+
+Two quotes I found that pretty much sum what I was experiencing. 
 
 “In spite of the striking visual impact that these dark designs can have, many designers don’t know how to effectively pull them off without turning off the visitor.
 
-
 “With a dark design comes less readability, less appeal for most readers and less opportunity for conventional design elements.”
+
+
+  The importance of a focused development phase became clear in this project. My initial wireframing led me to settle upon a layout that would translate across a wide range of viewport sizes. This was an important consideration. I made significant changes to the project at a late stage as I became aware of several readability issues caused by my initial choices.
+ 
 
 
 
