@@ -45,7 +45,7 @@ I then made two more, one mainly tech orintated and a minimal one.
 
 # Challenges and Changes
 
-So I started off with a very dark color scheme for everything except for the landing page which proved very difficult as it looked horrible, I tried for about three days trying to make it a little more user friendly, in the end I decided to scrap that idea and start with a cleaner, brighter and more minimalistic approach.
+So I started off with a very dark color scheme for everything except for the landing page which proved very difficult as it looked horrible, I tried for a long time to make it a little more user friendly, in the end I decided to scrap that idea and start with a cleaner, brighter and more minimalistic approach.
 
 Two quotes I found that pretty much sum what I was experiencing. 
 
