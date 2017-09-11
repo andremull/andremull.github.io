@@ -19,7 +19,7 @@ I wanted a design that was striking. To me the most important features included 
 
 http://www.margoweathers.com/
 
-I also seen a Melbourne developers personal website which used a screenshot of a map of Melbourne as a background which I liked the idea of. I came up with the concept of incorporating the two ideas together and creating a website which had a short 25 second or so video around Melbourne/coding looped as the background. 
+I also seen another Melbourne developers portfolio website which included a screenshot of a map of Melbourne as a background which I liked the idea of. I came up with the concept of incorporating the two ideas together and creating a website which had a short 25 second or so video around Melbourne/coding looped as the background. 
 
 Other Pages that initially gave me some inspiration were 
 
