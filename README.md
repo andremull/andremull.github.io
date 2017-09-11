@@ -9,7 +9,7 @@ I wanted a design that was striking. To me the most important features included 
 - Wireframes 
 -  Challenges and Changes 
 
-
+---
 
 # Inspiration
  To begin with the website that gave me the biggest inspiration was margo weathers website, I loved the landing page with a full screen video background and the dark color scheme. 
@@ -27,6 +27,8 @@ Other Pages that initially gave me some inspiration were
  
 http://mottau.co.uk/
 
+---
+
 # Wireframes
 
 *This is the color palette that I decided upon
@@ -41,7 +43,7 @@ I then made two more, one mainly tech orintated and a minimal one.
 
 <img width="700" alt="imageedit_20_9978483445" src="https://user-images.githubusercontent.com/24447533/30255159-a6cecba0-96e4-11e7-9922-732f013f8d4f.png">
 
-
+---
 
 # Challenges and Changes
 
@@ -57,7 +59,7 @@ Two quotes I found that pretty much sum what I was experiencing.
   The importance of a focused development phase became clear in this project. My initial wireframing led me to settle upon a layout that would translate across a wide range of viewport sizes. This was an important consideration. I made significant changes to the project at a late stage as I became aware of several readability issues caused by my initial choices.
  
 
-
+---
 
 # What I have learnt
 
