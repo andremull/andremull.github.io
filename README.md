@@ -1,11 +1,11 @@
 # My Personal Portfolio
 
-* For my portfolio website, I wanted a clean and simple website that is easy to navigate. 
-I wanted a design that was striking but also reflected my objectives. Important aspects included functional links to social media and the ability to be able to contact me via a functional form. High on my agenda was a strong and simple platform that I can build upon as I grow my portfolio.
+* For my portfolio website, I wanted simple website that is easy to navigate. 
+I wanted a design that was striking. To me the most important features included functional links to social media and the ability to be able to contact me via a functional form. High on my agenda was a strong and simple platform that I can build upon as I grow my portfolio.
 
 # Contents
 
-  - Inspiration
+  _- Inspiration
 - Wireframes 
 - Changes 
 - Challenges
@@ -31,12 +31,15 @@ http://mottau.co.uk/
 # Wireframes
 
 *This is the color palette that I decided upon
+
 <img width="1440" alt="screen shot 2017-09-11 at 11 04 45 am" src="https://user-images.githubusercontent.com/24447533/30254880-94798ace-96e1-11e7-9ba5-77c25b8e4502.png">
 
-This was a very basic wireframe I made for my first concept
+This was a very basic wireframe I made for my first concept.
+
 <img width="291" alt="imageedit_18_7320287767" src="https://user-images.githubusercontent.com/24447533/30255099-0f0aaf0a-96e4-11e7-8064-eae722e96a47.png">
 
 I then made two more, one mainly tech orintated and a minimal one.
+
 <img width="700" alt="imageedit_20_9978483445" src="https://user-images.githubusercontent.com/24447533/30255159-a6cecba0-96e4-11e7-9922-732f013f8d4f.png">
 
 
