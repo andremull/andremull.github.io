@@ -2,7 +2,7 @@
 
 * For my portfolio website, I wanted simple website that is easy to navigate. 
 I wanted a design that was striking. To me the most important features included functional links to social media and the ability to be able to contact me via a functional form. High on my agenda was a strong and simple platform that I can build upon as I grow my portfolio.
-
+---
 # Contents
 
   - Inspiration
