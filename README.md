@@ -7,10 +7,9 @@ I wanted a design that was striking. To me the most important features included 
 
   - Inspiration
 - Wireframes 
-- Changes 
-- Challenges
-- Code 
-- Finish product
+-  Challenges and Changes 
+
+
 
 # Inspiration
  To begin with the website that gave me the biggest inspiration was margo weathers website, I loved the landing page with a full screen video background and the dark color scheme. 
