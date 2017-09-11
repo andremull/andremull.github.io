@@ -59,7 +59,13 @@ Two quotes I found that pretty much sum what I was experiencing.
 
 
 
+# What I have learnt
 
+- Make Key Design Decisions Early.
+- Understand The Full Scope Of The Project.
+- Check Functionality Frequently.
+- Don’t Let My CSS Get Out Of Control.
+- Even A Simple Project Can Get Out Of Hand.
 
 
 
