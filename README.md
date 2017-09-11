@@ -5,7 +5,7 @@ I wanted a design that was striking. To me the most important features included 
 
 # Contents
 
-  _- Inspiration
+  - Inspiration
 - Wireframes 
 - Changes 
 - Challenges
